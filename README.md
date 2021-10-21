@@ -13,4 +13,4 @@ My goal was to develop a responsive portfolio site with featured sections:
 
 ## Project Features:
 * **_CSS:_** Uses Sass features
-* **_HTML5:_** Uses Bootstrap 5. Code is commented, and optimized
+* **_HTML5:_** Uses Bootstrap 5.
